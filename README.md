@@ -65,18 +65,10 @@
 
 </div>
 
----
-
-### 🔥 GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night" />
-
----
-
 ### ✨ Fun Fact
 
 💡 I enjoy learning new technologies and building projects that solve real problems.
 
 ---
 
-⭐ From [TU_USUARIO](https://github.com/TU_USUARIO)
+⭐ From [yeinAlexa3012](https://github.com/TU_USUARIO)
