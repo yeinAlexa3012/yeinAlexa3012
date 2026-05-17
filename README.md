@@ -63,7 +63,7 @@ Outside of technology, I enjoy learning new things, working on creative projects
 <p>
 <a href="https://github.com/yeinAlexa3012" target="_blank">
   <img alt="github"  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="www.linkedin.com/in/yein-alexa-casas-velez-603365395" target="_blank">
+<a href="www.linkedin.com/in/yeinalexa" target="_blank">
   <img  alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="yein301206@gmail.com" target="_blank">
   <img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
